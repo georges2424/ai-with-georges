@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T00:00:00Z",
+  "updated_at": "2026-10-21T23:19:39.869347+00:00",
   "stories": [
     {
       "date": "2026-10-21",
@@ -9,6 +9,60 @@
       "url": "https://www.investing.com/news/stock-market-news/openai-to-sell-its-top-models-on-google-cloud-in-latest-enterprise-push-4962854",
       "summary": "Reuters reports that OpenAI plans to offer advanced AI models through Google Cloud, expanding distribution options for businesses.",
       "takeaway": "More businesses may be able to access advanced AI through familiar cloud systems."
+    },
+    {
+      "date": "2026-10-21",
+      "category": "AI",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "Meta's Muse AI platform has surpassed 10 million users, with shopping emerging as one of the leading user activities on the service.",
+      "takeaway": "AI platforms with strong e-commerce integration can drive rapid user adoption and engagement."
+    },
+    {
+      "date": "2026-10-21",
+      "category": "AI",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "summary": "Anthropic has launched Claude Duet, an AI agent positioned as a competitor to Meta's Muse, indicating increased competition in AI agent-based services.",
+      "takeaway": "New AI agents continue to emerge as companies vie for dominance in AI-driven consumer platforms."
+    },
+    {
+      "date": "2026-10-21",
+      "category": "Cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI announced its AI models will be integrated into Google Cloud offerings, enhancing cloud accessibility and hybrid AI deployment options.",
+      "takeaway": "Collaborations between major AI and cloud providers aim to broaden enterprise access to advanced AI capabilities."
+    },
+    {
+      "date": "2026-10-21",
+      "category": "AI",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "summary": "Walmart is embracing AI by welcoming AI shopping agents onto its platform, contrasting with Amazon\u2019s current blocking of similar AI agent activities.",
+      "takeaway": "Retailers are adopting differing approaches to AI-driven shopping assistants, signaling evolving strategies in consumer AI integration."
+    },
+    {
+      "date": "2026-10-21",
+      "category": "Cloud",
+      "title": "Data centers could erase decades of air quality gains",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "summary": "A recent report warns that pollution from data centers is increasing and may negate years of improvements in air quality.",
+      "takeaway": "The environmental impact of expanding cloud infrastructure presents critical challenges for sustainable technology growth."
+    },
+    {
+      "date": "2026-10-20",
+      "category": "Policy",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "summary": "Anthropic has proposed an AI safety bill that could prohibit deployment of AI models capable of causing the deaths of 50 or more people, highlighting regulatory focus on high-risk AI systems.",
+      "takeaway": "AI policy is increasingly considering strict liability thresholds tied to public safety risks from AI models."
     }
   ]
 }
