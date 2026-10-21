@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-10-21T00:00:00Z",
+  "stories": [
+    {
+      "date": "2026-10-21",
+      "category": "Cloud",
+      "title": "OpenAI plans to offer frontier models through Google Cloud",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/openai-to-sell-its-top-models-on-google-cloud-in-latest-enterprise-push-4962854",
+      "summary": "Reuters reports that OpenAI plans to offer advanced AI models through Google Cloud, expanding distribution options for businesses.",
+      "takeaway": "More businesses may be able to access advanced AI through familiar cloud systems."
+    }
+  ]
+}
