@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-21T23:19:39.869347+00:00",
+  "updated_at": "2026-10-22T17:50:45.725709+00:00",
   "stories": [
+    {
+      "date": "2026-10-22",
+      "category": "Cybersecurity",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "summary": "Chinese hackers breached IT company ConnectWise and conducted espionage on thousands of companies. This highlights significant cybersecurity risks within IT service providers.",
+      "takeaway": "Breaches in major IT management platforms can expose a vast network of client companies to spying."
+    },
+    {
+      "date": "2026-10-22",
+      "category": "AI",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "summary": "Uber has adopted ChatGPT Work, based on OpenAI technology, for all its 30,000 employees, integrating AI into its daily workflows. This move signals large-scale enterprise reliance on AI productivity tools.",
+      "takeaway": "Major corporations are rapidly deploying AI assistants at scale to improve employee productivity."
+    },
+    {
+      "date": "2026-10-22",
+      "category": "Cybersecurity",
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "summary": "A critical security vulnerability linked to PHP has caused widespread disruption across websites. This vulnerability is causing significant concern about the stability and security of PHP-based web infrastructure.",
+      "takeaway": "Flaws in common web programming languages can have major impacts on internet security and availability."
+    },
+    {
+      "date": "2026-10-22",
+      "category": "Policy",
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "summary": "Leading AI and hardware companies OpenAI, Anthropic, and Nvidia have reported record lobbying expenditures. This indicates growing political engagement as AI technology and regulation develop rapidly.",
+      "takeaway": "AI industry leaders are increasingly active in shaping policy through lobbying efforts."
+    },
+    {
+      "date": "2026-10-22",
+      "category": "Policy",
+      "title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "summary": "Bill Gates advises that society should prepare for two decades of significant disruption caused by AI advancements. This perspective highlights the potential long-term societal and economic impacts of AI.",
+      "takeaway": "Widespread AI adoption will trigger extended periods of change requiring adaptation from governments, businesses, and individuals."
+    },
     {
       "date": "2026-10-21",
       "category": "Cloud",
