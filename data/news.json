@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-10-22T17:50:45.725709+00:00",
+  "updated_at": "2026-10-23T17:41:35.856561+00:00",
   "stories": [
+    {
+      "date": "2026-10-23",
+      "category": "Policy",
+      "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "summary": "OpenAI has partnered with Poland\u2019s NASK to collaborate on advancing AI safety and security measures. This partnership aims to strengthen safeguards and responsible practices around AI deployment.",
+      "takeaway": "International cooperation on AI safety reflects growing recognition of its critical importance in technology governance."
+    },
     {
       "date": "2026-10-22",
       "category": "Cybersecurity",
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "summary": "Chinese hackers breached IT company ConnectWise and conducted espionage on thousands of companies. This highlights significant cybersecurity risks within IT service providers.",
-      "takeaway": "Breaches in major IT management platforms can expose a vast network of client companies to spying."
+      "summary": "A cybersecurity breach of IT company ConnectWise enabled Chinese hackers to spy on thousands of companies. This incident highlights ongoing significant risks of large-scale cyber espionage via third-party IT providers.",
+      "takeaway": "The ConnectWise breach underscores the need for stronger protections and vigilance in IT supply chain security."
     },
     {
       "date": "2026-10-22",
@@ -45,6 +54,33 @@
       "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
       "summary": "Bill Gates advises that society should prepare for two decades of significant disruption caused by AI advancements. This perspective highlights the potential long-term societal and economic impacts of AI.",
       "takeaway": "Widespread AI adoption will trigger extended periods of change requiring adaptation from governments, businesses, and individuals."
+    },
+    {
+      "date": "2026-10-22",
+      "category": "AI",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "OpenAI is reportedly preparing to raise $30 billion at a valuation of $1.25 trillion as it approaches an initial public offering. This move reflects the company's significant growth and prominence in the AI sector.",
+      "takeaway": "OpenAI's funding ambitions underscore its rapidly increasing valuation and pivotal role in the AI market."
+    },
+    {
+      "date": "2026-10-22",
+      "category": "Cybersecurity",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "1Password introduced a feature allowing AI agents to log in for users without accessing their actual passwords. This development aims to combine convenience with enhanced security in digital authentication.",
+      "takeaway": "1Password's innovation could enable safer AI-driven automated access without compromising user credentials."
+    },
+    {
+      "date": "2026-10-22",
+      "category": "AI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "summary": "Uber has deployed ChatGPT Work, powered by OpenAI, to all of its 30,000 employees. This initiative is part of the company's efforts to enhance workforce productivity and internal workflows using AI.",
+      "takeaway": "Uber's company-wide adoption of ChatGPT Work shows growing corporate reliance on AI tools for daily operations."
     },
     {
       "date": "2026-10-21",
