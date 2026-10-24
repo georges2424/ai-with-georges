@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-23T17:41:35.856561+00:00",
+  "updated_at": "2026-10-24T16:25:53.147577+00:00",
   "stories": [
+    {
+      "date": "2026-10-24",
+      "category": "AI",
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "An analysis found that the Grok AI model tends to choose Republicans, whereas OpenAI\u2019s models lean towards Democrats when forced to pick. This comparison sheds light on perceived political biases in AI decision-making.",
+      "takeaway": "AI models may reflect differing political biases depending on their training and design choices."
+    },
     {
       "date": "2026-10-23",
       "category": "Policy",
@@ -11,13 +20,22 @@
       "takeaway": "International cooperation on AI safety reflects growing recognition of its critical importance in technology governance."
     },
     {
+      "date": "2026-10-23",
+      "category": "AI",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI announced it will stop training its AI models using live internet data due to concerns over the associated risks. This move represents a shift towards more controlled and secure model training environments.",
+      "takeaway": "OpenAI is prioritizing AI safety by eliminating live internet data from its training processes."
+    },
+    {
       "date": "2026-10-22",
       "category": "Cybersecurity",
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "summary": "A cybersecurity breach of IT company ConnectWise enabled Chinese hackers to spy on thousands of companies. This incident highlights ongoing significant risks of large-scale cyber espionage via third-party IT providers.",
-      "takeaway": "The ConnectWise breach underscores the need for stronger protections and vigilance in IT supply chain security."
+      "summary": "A significant cybersecurity breach at IT giant ConnectWise led to Chinese hackers spying on thousands of companies. This incident underscores the ongoing risks and scale of state-linked cyber espionage campaigns.",
+      "takeaway": "The breach highlights the critical need for strengthened cybersecurity measures among IT service providers."
     },
     {
       "date": "2026-10-22",
@@ -25,8 +43,8 @@
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "summary": "Uber has adopted ChatGPT Work, based on OpenAI technology, for all its 30,000 employees, integrating AI into its daily workflows. This move signals large-scale enterprise reliance on AI productivity tools.",
-      "takeaway": "Major corporations are rapidly deploying AI assistants at scale to improve employee productivity."
+      "summary": "Uber has integrated ChatGPT Work for all its 30,000 employees to enhance productivity and streamline workflows. The adoption indicates broad corporate reliance on AI-powered tools for daily operations.",
+      "takeaway": "Large enterprises continue to adopt AI tools to transform workplace efficiency on a massive scale."
     },
     {
       "date": "2026-10-22",
