@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-26T19:01:10.865890+00:00",
+  "updated_at": "2026-10-27T18:32:38.276957+00:00",
   "stories": [
+    {
+      "date": "2026-10-27",
+      "category": "AI",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "summary": "Leading AI labs have announced that their latest models refute the Exponential Time Hypothesis, a fundamental concept in computational complexity theory. The implications of this claim remain to be carefully evaluated.",
+      "takeaway": "If verified, this could represent a significant theoretical breakthrough impacting computer science and AI model capabilities."
+    },
+    {
+      "date": "2026-10-27",
+      "category": "AI",
+      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "summary": "Google has released Genie 4, an updated AI world model that incorporates audio, enhances the realism of simulated environments, and supports real-time directional control. This model advances immersive AI experiences.",
+      "takeaway": "Genie 4 showcases how generative AI can create richer interactive experiences with multi-modal sensory input and user guidance."
+    },
+    {
+      "date": "2026-10-27",
+      "category": "AI",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "summary": "Rohit Patel, a director at Meta AI, has departed the company to work on competitive AI productivity tools targeting Microsoft Office and Google Workspace. This move signals growing competition in AI-enhanced office software.",
+      "takeaway": "Leadership changes like this highlight intensifying battles among tech giants to dominate AI-powered office productivity."
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Cybersecurity",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "summary": "GMO, a major Japanese internet services company, disclosed that hackers posted stolen customer data online. The incident raises concerns over data security protections at large internet firms.",
+      "takeaway": "This breach underscores ongoing challenges companies face in safeguarding sensitive customer information from cyberattacks."
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Policy",
+      "title": "Data center backlash is uniting America",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "summary": "Opposition to data center projects has united various American communities and political factions ahead of midterm elections. Concerns focus on environmental and local infrastructure impacts.",
+      "takeaway": "The backlash against data centers may influence upcoming elections and shape future policy on tech infrastructure development."
+    },
+    {
+      "date": "2026-10-27",
+      "category": "AI",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "source": "openai.com",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "OpenAI announced an expanded collaboration with Oracle to integrate Oracle's business applications directly into the ChatGPT interface, enhancing access to enterprise tools through conversational AI.",
+      "takeaway": "This partnership reflects growing efforts to embed AI into practical business workflows via popular AI assistants."
+    },
     {
       "date": "2026-10-26",
       "category": "AI",
