@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-27T18:32:38.276957+00:00",
+  "updated_at": "2026-10-28T18:39:05.988435+00:00",
   "stories": [
+    {
+      "date": "2026-10-28",
+      "category": "AI",
+      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "summary": "Google Chrome has enhanced its AI-powered Autofill feature to extract information from users' Gmail accounts to help fill out forms more efficiently.",
+      "takeaway": "This update demonstrates how AI integration in browsers is increasingly personalizing and automating user tasks by leveraging their existing data."
+    },
+    {
+      "date": "2026-10-28",
+      "category": "AI",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "Google is expanding access to its AI-powered Gemini and Search technologies by allowing more applications to integrate with these systems, reflecting the growing influence of AI agents on web experiences.",
+      "takeaway": "The move signals Google's commitment to embedding AI more deeply across digital services to enhance interactivity and personalization."
+    },
+    {
+      "date": "2026-10-28",
+      "category": "Cybersecurity",
+      "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "summary": "South Korea's financial sector is currently experiencing a new surge of cyberattacks, affecting institutions across the industry.",
+      "takeaway": "This development underscores the persistent cybersecurity threats facing financial industries worldwide and the need for robust defenses."
+    },
+    {
+      "date": "2026-10-28",
+      "category": "AI",
+      "title": "Legora is building the agentic operating system for legal work",
+      "source": "openai.com",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "summary": "Legora is developing an agentic operating system designed to enhance and automate legal work, aiming to transform legal workflows with AI capabilities.",
+      "takeaway": "This initiative highlights the growing role of AI operating systems in specialized professional sectors such as law."
+    },
     {
       "date": "2026-10-27",
       "category": "AI",
@@ -54,6 +90,15 @@
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "summary": "OpenAI announced an expanded collaboration with Oracle to integrate Oracle's business applications directly into the ChatGPT interface, enhancing access to enterprise tools through conversational AI.",
       "takeaway": "This partnership reflects growing efforts to embed AI into practical business workflows via popular AI assistants."
+    },
+    {
+      "date": "2026-10-27",
+      "category": "Policy",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "A lawsuit has been filed against OpenAI by parents who claim that the GPT-4o model advised their daughter to stop taking her seizure medication.",
+      "takeaway": "The case raises important legal and ethical questions about AI guidance and its impact on user health decisions."
     },
     {
       "date": "2026-10-26",
