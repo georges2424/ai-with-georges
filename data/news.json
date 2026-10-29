@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-28T18:39:05.988435+00:00",
+  "updated_at": "2026-10-29T18:47:44.877470+00:00",
   "stories": [
+    {
+      "date": "2026-10-29",
+      "category": "AI",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "summary": "Mistral has released the weights for a trillion-parameter AI model designed specifically to address cybersecurity challenges, aiming to improve threat detection and response.",
+      "takeaway": "Mistral's large-scale AI model release marks a significant step in applying advanced AI capabilities to enhance cybersecurity defenses."
+    },
+    {
+      "date": "2026-10-29",
+      "category": "AI",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "source": "openai.com",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI published an updated model specification aimed at guiding the development of AI systems that are both more capable and aligned with beneficial outcomes for users and society.",
+      "takeaway": "Updated model specifications reflect OpenAI's commitment to responsible AI development and safer, more effective technologies."
+    },
+    {
+      "date": "2026-10-29",
+      "category": "AI",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "summary": "Former Palantir executives have launched a startup called Dream, securing $17 million in funding from Andreessen Horowitz to develop AI world models that assist with construction projects.",
+      "takeaway": "Dream aims to leverage AI to transform construction through detailed world modeling, supported by significant VC investment."
+    },
     {
       "date": "2026-10-28",
       "category": "AI",
@@ -36,6 +63,24 @@
       "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
       "summary": "Legora is developing an agentic operating system designed to enhance and automate legal work, aiming to transform legal workflows with AI capabilities.",
       "takeaway": "This initiative highlights the growing role of AI operating systems in specialized professional sectors such as law."
+    },
+    {
+      "date": "2026-10-28",
+      "category": "AI",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "summary": "Microsoft reported generating $10 billion in revenue attributable to its partnership and integration with OpenAI's technologies, highlighting the commercial impact of their AI collaboration.",
+      "takeaway": "The collaboration with OpenAI is a major revenue driver for Microsoft, underscoring the economic significance of AI advancements in the tech industry."
+    },
+    {
+      "date": "2026-10-28",
+      "category": "Cybersecurity",
+      "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "Google introduced Gemini 4 Carbon, an AI model positioned as a frontier advancement with notable improvements in cybersecurity capabilities.",
+      "takeaway": "Google's new Gemini 4 Carbon model reflects ongoing innovation in AI-driven cybersecurity solutions at the frontier level."
     },
     {
       "date": "2026-10-27",
