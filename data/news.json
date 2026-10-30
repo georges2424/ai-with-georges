@@ -1,14 +1,41 @@
 {
-  "updated_at": "2026-10-29T18:47:44.877470+00:00",
+  "updated_at": "2026-10-30T18:25:14.183526+00:00",
   "stories": [
+    {
+      "date": "2026-10-30",
+      "category": "AI",
+      "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "summary": "Zest has introduced a new AI agent capable of finding restaurants and booking reservations via text messaging, enhancing user convenience in dining planning.",
+      "takeaway": "AI agents are increasingly being designed to handle complex real-world tasks through natural language interactions."
+    },
+    {
+      "date": "2026-10-30",
+      "category": "Policy",
+      "title": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "summary": "Pope Leo has publicly called for the disarmament of AI technologies, emphasizing that machines are tools and should not be treated as persons.",
+      "takeaway": "Ethical concerns about AI personification and its societal impact continue to prompt calls for regulation and careful control."
+    },
+    {
+      "date": "2026-10-30",
+      "category": "Policy",
+      "title": "Making it easier for websites to express AI training preferences",
+      "source": "openai.com",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "summary": "OpenAI has introduced measures to help websites express preferences regarding the use of their data for AI training, supporting data control and privacy.",
+      "takeaway": "Facilitating data usage preferences could influence how AI models are trained and how privacy is managed."
+    },
     {
       "date": "2026-10-29",
       "category": "AI",
       "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "summary": "Mistral has released the weights for a trillion-parameter AI model designed specifically to address cybersecurity challenges, aiming to improve threat detection and response.",
-      "takeaway": "Mistral's large-scale AI model release marks a significant step in applying advanced AI capabilities to enhance cybersecurity defenses."
+      "summary": "Mistral has released the model weights for its trillion-parameter AI model, which is aimed specifically at applications in cybersecurity.",
+      "takeaway": "Large-scale AI models are being developed and made accessible to improve cybersecurity capabilities."
     },
     {
       "date": "2026-10-29",
@@ -27,6 +54,15 @@
       "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
       "summary": "Former Palantir executives have launched a startup called Dream, securing $17 million in funding from Andreessen Horowitz to develop AI world models that assist with construction projects.",
       "takeaway": "Dream aims to leverage AI to transform construction through detailed world modeling, supported by significant VC investment."
+    },
+    {
+      "date": "2026-10-29",
+      "category": "Cybersecurity",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "summary": "The US government investigated a Chinese espionage attempt specifically targeted at the CEO of Nvidia, highlighting ongoing concerns over corporate and national security.",
+      "takeaway": "High-profile tech executives and companies remain significant targets in international espionage efforts."
     },
     {
       "date": "2026-10-28",
