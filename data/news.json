@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-30T18:25:14.183526+00:00",
+  "updated_at": "2026-10-31T17:29:53.012806+00:00",
   "stories": [
+    {
+      "date": "2026-10-31",
+      "category": "AI",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI is reported to have reduced its funding goal for its latest financing round, signaling a potential shift in the company's capital strategy.",
+      "takeaway": "OpenAI appears to be adjusting its funding ambitions, possibly reflecting changing market conditions or internal priorities."
+    },
     {
       "date": "2026-10-30",
       "category": "AI",
@@ -27,6 +36,42 @@
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "summary": "OpenAI has introduced measures to help websites express preferences regarding the use of their data for AI training, supporting data control and privacy.",
       "takeaway": "Facilitating data usage preferences could influence how AI models are trained and how privacy is managed."
+    },
+    {
+      "date": "2026-10-30",
+      "category": "AI",
+      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Following its initial public offering, Anthropic is anticipated to be assigned a high \u2018junk\u2019 credit rating by agencies, indicating perceived elevated financial risk.",
+      "takeaway": "Anthropic's financial outlook is viewed skeptically by credit agencies post-IPO, which could impact its financing and valuation."
+    },
+    {
+      "date": "2026-10-30",
+      "category": "AI",
+      "title": "Cracks are emerging in the AI spending boom",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "Reports indicate that the rapid growth in AI-related spending is encountering challenges, suggesting emerging pressures on previously buoyant investment trends.",
+      "takeaway": "The initial surge in AI investments may be slowing or facing obstacles, signaling a potential market correction."
+    },
+    {
+      "date": "2026-10-30",
+      "category": "AI",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "summary": "Leading AI companies including OpenAI, Google, and Microsoft support a new standard designed to allow websites to opt out of having their data used for AI training.",
+      "takeaway": "There is growing industry momentum to create mechanisms protecting web content creators from unwanted AI data scraping."
+    },
+    {
+      "date": "2026-10-30",
+      "category": "AI",
+      "title": "Starbucks wants to use AI to show you a \u2018personalized digital menu\u2019 at the drive-thru",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "summary": "Starbucks plans to implement AI technology to customize digital menus based on customer preferences at drive-thru locations.",
+      "takeaway": "AI-driven personalization is expanding into everyday consumer experiences like food service to enhance customer engagement."
     },
     {
       "date": "2026-10-29",
