@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T17:29:53.012806+00:00",
+  "updated_at": "2026-11-01T18:44:20.207774+00:00",
   "stories": [
     {
       "date": "2026-10-31",
@@ -9,6 +9,24 @@
       "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "summary": "OpenAI is reported to have reduced its funding goal for its latest financing round, signaling a potential shift in the company's capital strategy.",
       "takeaway": "OpenAI appears to be adjusting its funding ambitions, possibly reflecting changing market conditions or internal priorities."
+    },
+    {
+      "date": "2026-10-31",
+      "category": "AI",
+      "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's CEO emphasized the company's approach to AI, indicating it aims to deploy AI technologies purposefully rather than just for the sake of AI itself.",
+      "takeaway": "Apple is focusing on meaningful AI integration rather than adopting AI without clear user or product benefits."
+    },
+    {
+      "date": "2026-10-31",
+      "category": "Policy",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "A judge has allowed a lawsuit brought by the NAACP regarding pollution concerns linked to an xAI data center to proceed in court.",
+      "takeaway": "Legal scrutiny on environmental impacts of AI infrastructure is intensifying, highlighting social and environmental accountability in the AI industry."
     },
     {
       "date": "2026-10-30",
@@ -25,8 +43,8 @@
       "title": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
       "source": "www.theverge.com",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "summary": "Pope Leo has publicly called for the disarmament of AI technologies, emphasizing that machines are tools and should not be treated as persons.",
-      "takeaway": "Ethical concerns about AI personification and its societal impact continue to prompt calls for regulation and careful control."
+      "summary": "Pope Leo issued a statement urging for the disarmament of AI, emphasizing that AI machines should be viewed as tools rather than as persons.",
+      "takeaway": "Ethical and moral frameworks are increasingly influencing discourse on AI governance and deployment."
     },
     {
       "date": "2026-10-30",
@@ -43,8 +61,8 @@
       "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary": "Following its initial public offering, Anthropic is anticipated to be assigned a high \u2018junk\u2019 credit rating by agencies, indicating perceived elevated financial risk.",
-      "takeaway": "Anthropic's financial outlook is viewed skeptically by credit agencies post-IPO, which could impact its financing and valuation."
+      "summary": "Following its initial public offering, credit agencies are reportedly likely to assign Anthropic a high 'junk' credit rating, signaling financial risk concerns.",
+      "takeaway": "The financial outlook for AI startups like Anthropic may be volatile and comes with marked investor caution."
     },
     {
       "date": "2026-10-30",
@@ -57,12 +75,12 @@
     },
     {
       "date": "2026-10-30",
-      "category": "AI",
+      "category": "Policy",
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
       "source": "www.theverge.com",
       "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "Leading AI companies including OpenAI, Google, and Microsoft support a new standard designed to allow websites to opt out of having their data used for AI training.",
-      "takeaway": "There is growing industry momentum to create mechanisms protecting web content creators from unwanted AI data scraping."
+      "summary": "Major AI companies are supporting the introduction of a standardized mechanism that allows websites to opt out from having their data scraped to train AI models.",
+      "takeaway": "The industry is moving toward respecting data ownership and privacy through new standards for data scraping consent."
     },
     {
       "date": "2026-10-30",
