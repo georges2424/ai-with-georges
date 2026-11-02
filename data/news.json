@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-01T18:44:20.207774+00:00",
+  "updated_at": "2026-11-02T22:35:12.033786+00:00",
   "stories": [
+    {
+      "date": "2026-11-02",
+      "category": "AI",
+      "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "summary": "Anthropic has announced it is nearing the development of recursive self-improvement (RSI) capabilities, a form of AI that can build or improve itself autonomously.",
+      "takeaway": "Approaching RSI capabilities marks a significant milestone in AI development with important implications for the industry."
+    },
+    {
+      "date": "2026-11-02",
+      "category": "AI",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "summary": "42AI has emerged from stealth mode announcing a $62.5 million funding round and introducing a new AI model designed to predict human behavior.",
+      "takeaway": "42AI\u2019s new world model potentially advances AI\u2019s capabilities in human behavior prediction, signaling investment confidence."
+    },
+    {
+      "date": "2026-11-02",
+      "category": "Policy",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "summary": "The New York Times and other media companies have filed lawsuits against the Brave browser over accusations of unauthorized content scraping and bypassing paywalls.",
+      "takeaway": "This legal action highlights ongoing tensions over AI and web content use, raising important questions about data rights and monetization."
+    },
+    {
+      "date": "2026-11-02",
+      "category": "Cloud",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "OpenAI has proposed a program positioning its data center power plants as protective infrastructure to enhance grid stability and protect neighboring communities.",
+      "takeaway": "OpenAI is exploring innovative roles for data centers beyond AI computation, potentially benefiting local power grids."
+    },
+    {
+      "date": "2026-11-02",
+      "category": "AI",
+      "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "summary": "OpenAI is consolidating its ChatGPT interface by merging the separate Chat and Work tabs into a unified user experience.",
+      "takeaway": "This integration aims to streamline user workflow and improve the overall efficiency of ChatGPT usage."
+    },
     {
       "date": "2026-10-31",
       "category": "AI",
