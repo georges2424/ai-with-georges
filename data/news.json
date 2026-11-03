@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-02T22:35:12.033786+00:00",
+  "updated_at": "2026-11-03T20:24:40.030103+00:00",
   "stories": [
+    {
+      "date": "2026-11-03",
+      "category": "AI",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "summary": "Fal, an AI inference startup, has doubled its valuation to $16 billion driven by a surge in demand for its services. This reflects growing market interest in scalable AI inference solutions.",
+      "takeaway": "Rapid growth in AI infrastructure demand is significantly boosting valuations for AI inference companies."
+    },
+    {
+      "date": "2026-11-03",
+      "category": "Policy",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "summary": "Google announced that schools can disable AI features in its tools, but this comes with the tradeoff of losing access to Google Search. This policy highlights challenges integrating AI while accommodating user preferences.",
+      "takeaway": "Google ties AI tool usage to key services, pushing institutions to choose between AI features and essential search functionality."
+    },
+    {
+      "date": "2026-11-03",
+      "category": "AI",
+      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "summary": "Netflix has launched an AI-powered Discover tab that offers themed watch recommendations tailored to users' moods. This feature uses AI to enhance content discovery and personalize viewing options.",
+      "takeaway": "Streaming platforms are increasingly leveraging AI to personalize content discovery and improve user engagement."
+    },
+    {
+      "date": "2026-11-03",
+      "category": "Policy",
+      "title": "Google is entirely disabling Search in schools that don\u2019t want AI",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "summary": "Google has stated it will completely disable its Search service in schools that opt out of AI features, underscoring a firm stance on mandatory integration of AI in educational products.",
+      "takeaway": "Google\u2019s policy forces schools to accept AI in exchange for access to core search services, raising questions about choice and AI adoption."
+    },
+    {
+      "date": "2026-11-03",
+      "category": "Policy",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "source": "openai.com",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "summary": "OpenAI has appointed Jill Hazelbaker as its new Chief Corporate Affairs Officer. This leadership change reflects OpenAI\u2019s focus on corporate strategy and external relations amid its growth.",
+      "takeaway": "OpenAI is strengthening its corporate leadership team to better manage growing public and policy engagement."
+    },
     {
       "date": "2026-11-02",
       "category": "AI",
