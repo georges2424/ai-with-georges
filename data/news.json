@@ -1,14 +1,41 @@
 {
-  "updated_at": "2026-11-03T20:24:40.030103+00:00",
+  "updated_at": "2026-11-04T20:39:34.217187+00:00",
   "stories": [
+    {
+      "date": "2026-11-04",
+      "category": "Policy",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "summary": "Google is receiving criticism for a plan that would disable its Search service for schools that choose to restrict access to its AI tools. This policy raises concerns about the balance between AI integration and user choice within educational institutions.",
+      "takeaway": "The controversy highlights the challenges in enforcing AI adoption in schools without limiting access to essential services like Search."
+    },
+    {
+      "date": "2026-11-04",
+      "category": "Policy",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google's AI policy",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "summary": "Amid backlash against Google's approach to AI in schools, DuckDuckGo is positioning itself as an alternative search option for educational institutions. This move responds to complaints about Google's AI policy and attempts to capture market share in education.",
+      "takeaway": "Competing search engines are leveraging discontent with AI policies to gain footholds in schools."
+    },
+    {
+      "date": "2026-11-04",
+      "category": "AI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "source": "openai.com",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI announced plans to acquire Pierre Computer Company, indicating a strategic move to enhance its hardware capabilities and integration. The acquisition may support OpenAI\u2019s broader goals in AI development and deployment.",
+      "takeaway": "OpenAI continues to invest in expanding its technology stack through key acquisitions."
+    },
     {
       "date": "2026-11-03",
       "category": "AI",
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "summary": "Fal, an AI inference startup, has doubled its valuation to $16 billion driven by a surge in demand for its services. This reflects growing market interest in scalable AI inference solutions.",
-      "takeaway": "Rapid growth in AI infrastructure demand is significantly boosting valuations for AI inference companies."
+      "summary": "The AI inference startup Fal has seen its valuation increase to $16 billion following rising demand for its technology. This growth underscores significant market interest in AI infrastructure and model deployment solutions.",
+      "takeaway": "Investor appetite for AI infrastructure companies remains robust, reflecting strong industry growth."
     },
     {
       "date": "2026-11-03",
@@ -513,33 +540,6 @@
       "url": "https://openai.com/index/openai-models-google-cloud",
       "summary": "OpenAI announced its AI models will be integrated into Google Cloud offerings, enhancing cloud accessibility and hybrid AI deployment options.",
       "takeaway": "Collaborations between major AI and cloud providers aim to broaden enterprise access to advanced AI capabilities."
-    },
-    {
-      "date": "2026-10-21",
-      "category": "AI",
-      "title": "Walmart is inviting AI agents to shop for you",
-      "source": "www.theverge.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "summary": "Walmart is embracing AI by welcoming AI shopping agents onto its platform, contrasting with Amazon\u2019s current blocking of similar AI agent activities.",
-      "takeaway": "Retailers are adopting differing approaches to AI-driven shopping assistants, signaling evolving strategies in consumer AI integration."
-    },
-    {
-      "date": "2026-10-21",
-      "category": "Cloud",
-      "title": "Data centers could erase decades of air quality gains",
-      "source": "www.theverge.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "summary": "A recent report warns that pollution from data centers is increasing and may negate years of improvements in air quality.",
-      "takeaway": "The environmental impact of expanding cloud infrastructure presents critical challenges for sustainable technology growth."
-    },
-    {
-      "date": "2026-10-20",
-      "category": "Policy",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "Anthropic has proposed an AI safety bill that could prohibit deployment of AI models capable of causing the deaths of 50 or more people, highlighting regulatory focus on high-risk AI systems.",
-      "takeaway": "AI policy is increasingly considering strict liability thresholds tied to public safety risks from AI models."
     }
   ]
 }
