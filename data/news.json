@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-04T20:39:34.217187+00:00",
+  "updated_at": "2026-11-05T20:55:44.510952+00:00",
   "stories": [
+    {
+      "date": "2026-11-05",
+      "category": "AI",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta has launched a feature allowing US users to video chat with their Muse AI avatar, enhancing interactive experiences with AI-generated avatars.",
+      "takeaway": "Meta is expanding user interaction capabilities with its Muse AI avatar through video chat."
+    },
+    {
+      "date": "2026-11-05",
+      "category": "Cybersecurity",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "summary": "OpenAI has introduced a new cybersecurity model designed to improve security, though questions remain about whether it sufficiently addresses the challenges faced.",
+      "takeaway": "OpenAI is advancing cybersecurity with new models but the effectiveness and sufficiency remain under scrutiny."
+    },
+    {
+      "date": "2026-11-05",
+      "category": "AI",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "summary": "Dropbox has acquired Tigris Data in a $350 million deal to strengthen its AI infrastructure capabilities, indicating a strategic focus on AI development.",
+      "takeaway": "Dropbox is investing significantly to enhance its AI infrastructure through acquisition."
+    },
+    {
+      "date": "2026-11-05",
+      "category": "Cybersecurity",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "summary": "OpenAI claims that its new cybersecurity model, GPT-6 Cyber, is designed to better avoid hacking activities targeting other companies, advancing aligned AI security agents.",
+      "takeaway": "OpenAI continues to push for safer AI applications with improved cybersecurity models."
+    },
+    {
+      "date": "2026-11-05",
+      "category": "AI",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary": "OpenAI president Greg Brockman indicated that the company is potentially prepared to go public with an IPO as soon as 2027, marking a significant milestone for the AI firm.",
+      "takeaway": "OpenAI's leadership sees a possible public market debut within the next year."
+    },
     {
       "date": "2026-11-04",
       "category": "Policy",
@@ -495,51 +540,6 @@
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "summary": "Uber has deployed ChatGPT Work, powered by OpenAI, to all of its 30,000 employees. This initiative is part of the company's efforts to enhance workforce productivity and internal workflows using AI.",
       "takeaway": "Uber's company-wide adoption of ChatGPT Work shows growing corporate reliance on AI tools for daily operations."
-    },
-    {
-      "date": "2026-10-22",
-      "category": "AI",
-      "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "summary": "Microsoft's Mustafa Suleyman claims their AI system surpasses doctors in challenging medical cases, aiming toward advanced medical AI capabilities.",
-      "takeaway": "Advances in AI medical diagnostics could significantly impact healthcare outcomes and clinical decision-making."
-    },
-    {
-      "date": "2026-10-21",
-      "category": "Cloud",
-      "title": "OpenAI plans to offer frontier models through Google Cloud",
-      "source": "Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/openai-to-sell-its-top-models-on-google-cloud-in-latest-enterprise-push-4962854",
-      "summary": "Reuters reports that OpenAI plans to offer advanced AI models through Google Cloud, expanding distribution options for businesses.",
-      "takeaway": "More businesses may be able to access advanced AI through familiar cloud systems."
-    },
-    {
-      "date": "2026-10-21",
-      "category": "AI",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "Meta's Muse AI platform has surpassed 10 million users, with shopping emerging as one of the leading user activities on the service.",
-      "takeaway": "AI platforms with strong e-commerce integration can drive rapid user adoption and engagement."
-    },
-    {
-      "date": "2026-10-21",
-      "category": "AI",
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "source": "www.theverge.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic has launched Claude Duet, an AI agent positioned as a competitor to Meta's Muse, indicating increased competition in AI agent-based services.",
-      "takeaway": "New AI agents continue to emerge as companies vie for dominance in AI-driven consumer platforms."
-    },
-    {
-      "date": "2026-10-21",
-      "category": "Cloud",
-      "title": "OpenAI models are coming to Google Cloud",
-      "source": "openai.com",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "summary": "OpenAI announced its AI models will be integrated into Google Cloud offerings, enhancing cloud accessibility and hybrid AI deployment options.",
-      "takeaway": "Collaborations between major AI and cloud providers aim to broaden enterprise access to advanced AI capabilities."
     }
   ]
 }
