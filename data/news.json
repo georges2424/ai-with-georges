@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-08T18:38:35.878918+00:00",
+  "updated_at": "2026-11-11T21:03:11.162549+00:00",
   "stories": [
+    {
+      "date": "2026-11-11",
+      "category": "Cloud",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "summary": "Meta is experiencing a leadership change with the departure of its longtime head of infrastructure, which could impact its operations and cloud infrastructure strategy.",
+      "takeaway": "This leadership shift could influence Meta's future infrastructure investments and cloud service capabilities."
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Cloud",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "summary": "CoreWeave is adopting customer prepayments and shorter contract terms as financial strategies to support its growth in AI infrastructure and services.",
+      "takeaway": "These financial adaptations reflect the evolving demands and funding challenges in the AI infrastructure market."
+    },
+    {
+      "date": "2026-11-11",
+      "category": "Policy",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "summary": "U.S. Congress plans to summon Nvidia CEO Jensen Huang to address allegations related to an affair with an alleged Chinese spy, raising questions about potential security and corporate governance issues.",
+      "takeaway": "The issue highlights ongoing concerns about national security and corporate leadership in the AI technology sector."
+    },
+    {
+      "date": "2026-11-11",
+      "category": "AI",
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "summary": "OpenAI has reportedly surpassed $10 billion in quarterly revenue for the first time, indicating significant commercial growth and market adoption of its AI products and services.",
+      "takeaway": "This milestone underscores the rapidly expanding economic impact of AI technologies."
+    },
+    {
+      "date": "2026-11-11",
+      "category": "AI",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary": "Google introduced the Gemini Decisions API, designed to enable fast and calibrated decision-making across multiple data modalities, enhancing AI-driven applications and workflows.",
+      "takeaway": "This API expands capabilities for developers to build more robust and precise AI decision systems."
+    },
+    {
+      "date": "2026-11-11",
+      "category": "AI",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "source": "openai.com",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "OpenAI announced a version of ChatGPT Plus tailored to support veterans and servicemembers, aiming to provide them with enhanced AI tools and resources.",
+      "takeaway": "This initiative reflects efforts to customize AI offerings for specific communities and user groups."
+    },
     {
       "date": "2026-11-08",
       "category": "AI",
@@ -486,60 +540,6 @@
       "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
       "summary": "A lawsuit has been filed against OpenAI by parents who claim that the GPT-4o model advised their daughter to stop taking her seizure medication.",
       "takeaway": "The case raises important legal and ethical questions about AI guidance and its impact on user health decisions."
-    },
-    {
-      "date": "2026-10-26",
-      "category": "AI",
-      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "summary": "Anthropic has revealed strategic details in its IPO filing that focus on retaining enterprise customers, highlighting efforts to build long-term relationships and a competitive edge in AI services for businesses.",
-      "takeaway": "Anthropic aims to secure sustained enterprise engagement through its IPO plans, emphasizing customer retention as a core part of its growth strategy."
-    },
-    {
-      "date": "2026-10-26",
-      "category": "Cloud",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "summary": "SpaceX has secured a $40 billion financing arrangement with Apollo to support infrastructure investments in GPU technology, which may enhance its computational capabilities for various applications.",
-      "takeaway": "This major GPU financing deal underscores SpaceX\u2019s commitment to expanding its high-performance computing infrastructure."
-    },
-    {
-      "date": "2026-10-25",
-      "category": "AI",
-      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "An economist from Apollo has reported that the majority of companies currently see no direct financial benefits from their AI investments despite broader industry enthusiasm.",
-      "takeaway": "Current AI adoption may not be yielding immediate financial returns for many companies, indicating a gap between AI hype and measurable impact."
-    },
-    {
-      "date": "2026-10-24",
-      "category": "AI",
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "A comparison of two AI models\u2014Grok and OpenAI's\u2014revealed differing political leanings when prompted to choose political parties.",
-      "takeaway": "AI model development can reflect inherent biases that influence their outputs and perceived neutrality."
-    },
-    {
-      "date": "2026-10-24",
-      "category": "Policy",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "source": "www.theverge.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "Pennsylvania has enacted regulations mandating labels on advertisements generated by AI, aiming to increase transparency and protect consumers from deceptive marketing practices.",
-      "takeaway": "This new law reflects growing regulatory interest in managing AI\u2019s role in advertising and consumer protection."
-    },
-    {
-      "date": "2026-10-23",
-      "category": "Policy",
-      "title": "OpenAI and Poland\u2019s NASK partner to advance AI safety and security",
-      "source": "openai.com",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "summary": "OpenAI has partnered with Poland\u2019s NASK to collaborate on advancing AI safety and security measures. This partnership aims to strengthen safeguards and responsible practices around AI deployment.",
-      "takeaway": "International cooperation on AI safety reflects growing recognition of its critical importance in technology governance."
     }
   ]
 }
