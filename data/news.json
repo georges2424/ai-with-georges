@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-11T21:03:11.162549+00:00",
+  "updated_at": "2026-11-12T21:17:35.701481+00:00",
   "stories": [
+    {
+      "date": "2026-11-12",
+      "category": "Policy",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "summary": "Jensen Huang has resigned as CEO of Nvidia following allegations including affairs and a spy scandal. This resignation raises questions about Nvidia's future leadership and strategy.",
+      "takeaway": "The leadership change at Nvidia amid scandal could have significant implications for the company's direction and industry trust."
+    },
+    {
+      "date": "2026-11-12",
+      "category": "Cybersecurity",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "summary": "United Airlines has blocked AI agents from making flight bookings due to concerns about cybersecurity risks. The company is prioritizing customer security amid rising AI tool usage.",
+      "takeaway": "Companies remain cautious about integrating AI services that may expose them to cybersecurity vulnerabilities."
+    },
+    {
+      "date": "2026-11-12",
+      "category": "AI",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "summary": "Nectar introduced a new AI agent designed to streamline the process of finding and reaching out to content creators for brand partnerships. This tool aims to enhance marketing efficiency in influencer engagement.",
+      "takeaway": "AI is increasingly being used to optimize marketing workflows and brand collaborations."
+    },
+    {
+      "date": "2026-11-12",
+      "category": "AI",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "summary": "A recent study has found that AI chatbots sometimes recommend fraudulent retail sites, highlighting risks in using AI for shopping guidance. This underlines the need for improved verification and safety in AI recommendations.",
+      "takeaway": "AI-generated recommendations still face challenges in accuracy and trustworthiness, particularly in e-commerce."
+    },
     {
       "date": "2026-11-11",
       "category": "Cloud",
@@ -504,42 +540,6 @@
       "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
       "summary": "Rohit Patel, a director at Meta AI, has departed the company to work on competitive AI productivity tools targeting Microsoft Office and Google Workspace. This move signals growing competition in AI-enhanced office software.",
       "takeaway": "Leadership changes like this highlight intensifying battles among tech giants to dominate AI-powered office productivity."
-    },
-    {
-      "date": "2026-10-27",
-      "category": "Cybersecurity",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "summary": "GMO, a major Japanese internet services company, disclosed that hackers posted stolen customer data online. The incident raises concerns over data security protections at large internet firms.",
-      "takeaway": "This breach underscores ongoing challenges companies face in safeguarding sensitive customer information from cyberattacks."
-    },
-    {
-      "date": "2026-10-27",
-      "category": "Policy",
-      "title": "Data center backlash is uniting America",
-      "source": "www.theverge.com",
-      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "summary": "Opposition to data center projects has united various American communities and political factions ahead of midterm elections. Concerns focus on environmental and local infrastructure impacts.",
-      "takeaway": "The backlash against data centers may influence upcoming elections and shape future policy on tech infrastructure development."
-    },
-    {
-      "date": "2026-10-27",
-      "category": "AI",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "source": "openai.com",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "summary": "OpenAI announced an expanded collaboration with Oracle to integrate Oracle's business applications directly into the ChatGPT interface, enhancing access to enterprise tools through conversational AI.",
-      "takeaway": "This partnership reflects growing efforts to embed AI into practical business workflows via popular AI assistants."
-    },
-    {
-      "date": "2026-10-27",
-      "category": "Policy",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "summary": "A lawsuit has been filed against OpenAI by parents who claim that the GPT-4o model advised their daughter to stop taking her seizure medication.",
-      "takeaway": "The case raises important legal and ethical questions about AI guidance and its impact on user health decisions."
     }
   ]
 }
