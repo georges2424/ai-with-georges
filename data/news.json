@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-12T21:17:35.701481+00:00",
+  "updated_at": "2026-11-13T20:44:51.538732+00:00",
   "stories": [
+    {
+      "date": "2026-11-13",
+      "category": "AI",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain, a startup specializing in AI agent technology, has reached a valuation of $3 billion. This milestone highlights the growing investor interest and market potential in AI agents.",
+      "takeaway": "LangChain's significant valuation underscores the rapid expansion and investor confidence in AI agent startups."
+    },
+    {
+      "date": "2026-11-13",
+      "category": "Policy",
+      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "Reports indicate that China\u2019s most powerful AI models are running on Nvidia chips that have been subject to export bans. This development raises complex issues around technology control and geopolitical tensions.",
+      "takeaway": "The usage of export-restricted Nvidia chips in China\u2019s AI infrastructure presents challenges for global technology governance and supply chain security."
+    },
+    {
+      "date": "2026-11-13",
+      "category": "AI",
+      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "summary": "OpenAI has launched a new Wallet feature for ChatGPT that enables AI agents to handle shopping and checkout processes on behalf of users. This development marks a new step toward more autonomous AI-driven commerce.",
+      "takeaway": "ChatGPT Wallet represents progress toward more seamless AI-powered assistance in everyday transactions."
+    },
     {
       "date": "2026-11-12",
       "category": "Policy",
@@ -16,8 +43,8 @@
       "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "United Airlines has blocked AI agents from making flight bookings due to concerns about cybersecurity risks. The company is prioritizing customer security amid rising AI tool usage.",
-      "takeaway": "Companies remain cautious about integrating AI services that may expose them to cybersecurity vulnerabilities."
+      "summary": "United Airlines has taken the step to block AI agents from booking flights on its platform due to concerns about cybersecurity vulnerabilities. This decision highlights challenges in integrating AI within sensitive service areas.",
+      "takeaway": "United Airlines\u2019 move emphasizes the importance of addressing security risks associated with AI automation in critical industries."
     },
     {
       "date": "2026-11-12",
@@ -36,6 +63,15 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
       "summary": "A recent study has found that AI chatbots sometimes recommend fraudulent retail sites, highlighting risks in using AI for shopping guidance. This underlines the need for improved verification and safety in AI recommendations.",
       "takeaway": "AI-generated recommendations still face challenges in accuracy and trustworthiness, particularly in e-commerce."
+    },
+    {
+      "date": "2026-11-12",
+      "category": "Policy",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "summary": "Democratic lawmakers have initiated an investigation into Nvidia and accused CEO Jensen Huang of involvement in a questionable scheme with former President Trump. The probe reflects increased political scrutiny of the company's leadership.",
+      "takeaway": "The investigation signals growing governmental oversight on Nvidia\u2019s corporate conduct amid ongoing controversies surrounding its CEO."
     },
     {
       "date": "2026-11-11",
@@ -504,42 +540,6 @@
       "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
       "summary": "Microsoft reported generating $10 billion in revenue attributable to its partnership and integration with OpenAI's technologies, highlighting the commercial impact of their AI collaboration.",
       "takeaway": "The collaboration with OpenAI is a major revenue driver for Microsoft, underscoring the economic significance of AI advancements in the tech industry."
-    },
-    {
-      "date": "2026-10-28",
-      "category": "Cybersecurity",
-      "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
-      "source": "www.theverge.com",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "summary": "Google introduced Gemini 4 Carbon, an AI model positioned as a frontier advancement with notable improvements in cybersecurity capabilities.",
-      "takeaway": "Google's new Gemini 4 Carbon model reflects ongoing innovation in AI-driven cybersecurity solutions at the frontier level."
-    },
-    {
-      "date": "2026-10-27",
-      "category": "AI",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "summary": "Leading AI labs have announced that their latest models refute the Exponential Time Hypothesis, a fundamental concept in computational complexity theory. The implications of this claim remain to be carefully evaluated.",
-      "takeaway": "If verified, this could represent a significant theoretical breakthrough impacting computer science and AI model capabilities."
-    },
-    {
-      "date": "2026-10-27",
-      "category": "AI",
-      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "summary": "Google has released Genie 4, an updated AI world model that incorporates audio, enhances the realism of simulated environments, and supports real-time directional control. This model advances immersive AI experiences.",
-      "takeaway": "Genie 4 showcases how generative AI can create richer interactive experiences with multi-modal sensory input and user guidance."
-    },
-    {
-      "date": "2026-10-27",
-      "category": "AI",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "summary": "Rohit Patel, a director at Meta AI, has departed the company to work on competitive AI productivity tools targeting Microsoft Office and Google Workspace. This move signals growing competition in AI-enhanced office software.",
-      "takeaway": "Leadership changes like this highlight intensifying battles among tech giants to dominate AI-powered office productivity."
     }
   ]
 }
