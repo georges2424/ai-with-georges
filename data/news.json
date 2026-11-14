@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-13T20:44:51.538732+00:00",
+  "updated_at": "2026-11-14T18:56:28.223738+00:00",
   "stories": [
+    {
+      "date": "2026-11-14",
+      "category": "Policy",
+      "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "An interview with an OpenAI board member who was involved in Sam Altman\u2019s firing discusses ongoing mistrust toward CEOs in the AI industry.",
+      "takeaway": "Leadership trust remains a critical and unsettled issue within the AI policy and governance space."
+    },
     {
       "date": "2026-11-13",
       "category": "AI",
@@ -13,11 +22,11 @@
     {
       "date": "2026-11-13",
       "category": "Policy",
-      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "Reports indicate that China\u2019s most powerful AI models are running on Nvidia chips that have been subject to export bans. This development raises complex issues around technology control and geopolitical tensions.",
-      "takeaway": "The usage of export-restricted Nvidia chips in China\u2019s AI infrastructure presents challenges for global technology governance and supply chain security."
+      "summary": "Nvidia chips that are subject to export bans are reportedly powering some of China\u2019s most advanced AI models, raising concerns amid geopolitical tensions.",
+      "takeaway": "The use of export-restricted Nvidia hardware in Chinese AI systems poses potential regulatory and political challenges."
     },
     {
       "date": "2026-11-13",
@@ -25,8 +34,17 @@
       "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "OpenAI has launched a new Wallet feature for ChatGPT that enables AI agents to handle shopping and checkout processes on behalf of users. This development marks a new step toward more autonomous AI-driven commerce.",
-      "takeaway": "ChatGPT Wallet represents progress toward more seamless AI-powered assistance in everyday transactions."
+      "summary": "OpenAI introduced ChatGPT Wallet, a new feature that enables AI agents to make purchases and handle checkout processes on behalf of users.",
+      "takeaway": "ChatGPT Wallet expands the practical applications of AI agents in facilitating online shopping."
+    },
+    {
+      "date": "2026-11-13",
+      "category": "AI",
+      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "The departure of Nvidia CEO Jensen Huang has reportedly created a major gap in AI startup funding according to venture capitalists and founders.",
+      "takeaway": "Jensen Huang\u2019s exit is significantly impacting the AI startup financing ecosystem."
     },
     {
       "date": "2026-11-12",
@@ -43,8 +61,8 @@
       "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "United Airlines has taken the step to block AI agents from booking flights on its platform due to concerns about cybersecurity vulnerabilities. This decision highlights challenges in integrating AI within sensitive service areas.",
-      "takeaway": "United Airlines\u2019 move emphasizes the importance of addressing security risks associated with AI automation in critical industries."
+      "summary": "United Airlines has decided to block AI agents from booking flights due to concerns about cybersecurity vulnerabilities associated with automated booking systems.",
+      "takeaway": "Cybersecurity fears are influencing policies restricting AI agent functionalities in sensitive customer services."
     },
     {
       "date": "2026-11-12",
@@ -522,24 +540,6 @@
       "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
       "summary": "South Korea's financial sector is currently experiencing a new surge of cyberattacks, affecting institutions across the industry.",
       "takeaway": "This development underscores the persistent cybersecurity threats facing financial industries worldwide and the need for robust defenses."
-    },
-    {
-      "date": "2026-10-28",
-      "category": "AI",
-      "title": "Legora is building the agentic operating system for legal work",
-      "source": "openai.com",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "summary": "Legora is developing an agentic operating system designed to enhance and automate legal work, aiming to transform legal workflows with AI capabilities.",
-      "takeaway": "This initiative highlights the growing role of AI operating systems in specialized professional sectors such as law."
-    },
-    {
-      "date": "2026-10-28",
-      "category": "AI",
-      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "summary": "Microsoft reported generating $10 billion in revenue attributable to its partnership and integration with OpenAI's technologies, highlighting the commercial impact of their AI collaboration.",
-      "takeaway": "The collaboration with OpenAI is a major revenue driver for Microsoft, underscoring the economic significance of AI advancements in the tech industry."
     }
   ]
 }
