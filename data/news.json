@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T18:56:28.223738+00:00",
+  "updated_at": "2026-11-15T19:32:27.317512+00:00",
   "stories": [
     {
       "date": "2026-11-14",
@@ -9,6 +9,15 @@
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "summary": "An interview with an OpenAI board member who was involved in Sam Altman\u2019s firing discusses ongoing mistrust toward CEOs in the AI industry.",
       "takeaway": "Leadership trust remains a critical and unsettled issue within the AI policy and governance space."
+    },
+    {
+      "date": "2026-11-14",
+      "category": "AI",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "Several prominent tech executives, including Elon Musk, have signed a petition urging Nvidia to reinstate Jensen Huang as CEO following his controversial departure.",
+      "takeaway": "The tech community is actively responding to Nvidia\u2019s leadership changes, indicating broader industry concerns about Huang's exit."
     },
     {
       "date": "2026-11-13",
@@ -21,12 +30,12 @@
     },
     {
       "date": "2026-11-13",
-      "category": "Policy",
+      "category": "Cybersecurity",
       "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "Nvidia chips that are subject to export bans are reportedly powering some of China\u2019s most advanced AI models, raising concerns amid geopolitical tensions.",
-      "takeaway": "The use of export-restricted Nvidia hardware in Chinese AI systems poses potential regulatory and political challenges."
+      "summary": "Nvidia chips, despite being subject to export bans, reportedly power some of China's most advanced AI models, raising concerns about regulatory enforcement and security implications.",
+      "takeaway": "The unauthorized use of advanced AI hardware in restricted regions poses ongoing cybersecurity and geopolitical risks."
     },
     {
       "date": "2026-11-13",
@@ -34,8 +43,8 @@
       "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "OpenAI introduced ChatGPT Wallet, a new feature that enables AI agents to make purchases and handle checkout processes on behalf of users.",
-      "takeaway": "ChatGPT Wallet expands the practical applications of AI agents in facilitating online shopping."
+      "summary": "OpenAI has introduced ChatGPT Wallet, enabling AI agents to make purchases and handle checkouts autonomously on behalf of users.",
+      "takeaway": "This development marks a step toward more autonomous AI agents managing financial transactions for users."
     },
     {
       "date": "2026-11-13",
@@ -43,8 +52,8 @@
       "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "The departure of Nvidia CEO Jensen Huang has reportedly created a major gap in AI startup funding according to venture capitalists and founders.",
-      "takeaway": "Jensen Huang\u2019s exit is significantly impacting the AI startup financing ecosystem."
+      "summary": "Venture capitalists and startup founders warn that Jensen Huang\u2019s exit from Nvidia is creating significant uncertainty and funding challenges in the AI startup ecosystem.",
+      "takeaway": "Leadership turmoil at a major AI chipmaker like Nvidia affects the broader AI startup and innovation funding landscape."
     },
     {
       "date": "2026-11-12",
@@ -88,8 +97,8 @@
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
       "source": "techcrunch.com",
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "summary": "Democratic lawmakers have initiated an investigation into Nvidia and accused CEO Jensen Huang of involvement in a questionable scheme with former President Trump. The probe reflects increased political scrutiny of the company's leadership.",
-      "takeaway": "The investigation signals growing governmental oversight on Nvidia\u2019s corporate conduct amid ongoing controversies surrounding its CEO."
+      "summary": "Democrats have initiated an investigation into Nvidia, alleging improper dealings connected to Jensen Huang and former President Trump.",
+      "takeaway": "Political scrutiny is intensifying around Nvidia's leadership and its potential involvement in controversial activities."
     },
     {
       "date": "2026-11-11",
@@ -531,15 +540,6 @@
       "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
       "summary": "Google is expanding access to its AI-powered Gemini and Search technologies by allowing more applications to integrate with these systems, reflecting the growing influence of AI agents on web experiences.",
       "takeaway": "The move signals Google's commitment to embedding AI more deeply across digital services to enhance interactivity and personalization."
-    },
-    {
-      "date": "2026-10-28",
-      "category": "Cybersecurity",
-      "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "summary": "South Korea's financial sector is currently experiencing a new surge of cyberattacks, affecting institutions across the industry.",
-      "takeaway": "This development underscores the persistent cybersecurity threats facing financial industries worldwide and the need for robust defenses."
     }
   ]
 }
