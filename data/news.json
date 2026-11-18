@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-11-15T19:32:27.317512+00:00",
+  "updated_at": "2026-11-18T21:42:01.257522+00:00",
   "stories": [
+    {
+      "date": "2026-11-18",
+      "category": "Cybersecurity",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "summary": "Palmer Luckey cautions that AI-enabled cyberattacks are advancing faster than current defense mechanisms, signaling increased risks in cybersecurity.",
+      "takeaway": "The acceleration of AI-driven cyber threats demands urgent enhancement of cybersecurity defenses."
+    },
+    {
+      "date": "2026-11-18",
+      "category": "AI",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "summary": "Snapchat has introduced support for developers to create augmented reality lenses using AI coding assistants such as Claude Code and Cursor, enhancing development capabilities.",
+      "takeaway": "AI coding assistants are increasingly integrated into creative development tools, enabling more accessible AR content creation."
+    },
+    {
+      "date": "2026-11-18",
+      "category": "AI",
+      "title": "Nvidia isn\u2019t selling any more AI chips to China",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "summary": "Nvidia has halted sales of its AI chips to China, reflecting changes in its market strategy following leadership shifts.",
+      "takeaway": "Nvidia\u2019s stop in AI chip sales to China signals strategic and geopolitical shifts impacting AI hardware distribution."
+    },
+    {
+      "date": "2026-11-18",
+      "category": "Policy",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "source": "openai.com",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI outlines approaches to managing risks associated with frontier AI technologies across their development and deployment stages.",
+      "takeaway": "Careful management of AI risks is essential to ensure safe and responsible advancement of frontier AI."
+    },
+    {
+      "date": "2026-11-18",
+      "category": "Policy",
+      "title": "Tech lawsuits defined 2026 \u2014 and lawmakers want more",
+      "source": "www.theverge.com",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "summary": "The year 2026 was marked by significant technology-related lawsuits, prompting lawmakers to push for additional legal actions and regulations.",
+      "takeaway": "Increasing legal scrutiny indicates growing regulatory focus on technology industry practices and innovations."
+    },
     {
       "date": "2026-11-14",
       "category": "Policy",
@@ -495,51 +540,6 @@
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "summary": "Mistral has released the model weights for its trillion-parameter AI model, which is aimed specifically at applications in cybersecurity.",
       "takeaway": "Large-scale AI models are being developed and made accessible to improve cybersecurity capabilities."
-    },
-    {
-      "date": "2026-10-29",
-      "category": "AI",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "source": "openai.com",
-      "url": "https://openai.com/index/updated-model-spec",
-      "summary": "OpenAI published an updated model specification aimed at guiding the development of AI systems that are both more capable and aligned with beneficial outcomes for users and society.",
-      "takeaway": "Updated model specifications reflect OpenAI's commitment to responsible AI development and safer, more effective technologies."
-    },
-    {
-      "date": "2026-10-29",
-      "category": "AI",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "Former Palantir executives have launched a startup called Dream, securing $17 million in funding from Andreessen Horowitz to develop AI world models that assist with construction projects.",
-      "takeaway": "Dream aims to leverage AI to transform construction through detailed world modeling, supported by significant VC investment."
-    },
-    {
-      "date": "2026-10-29",
-      "category": "Cybersecurity",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "summary": "The US government investigated a Chinese espionage attempt specifically targeted at the CEO of Nvidia, highlighting ongoing concerns over corporate and national security.",
-      "takeaway": "High-profile tech executives and companies remain significant targets in international espionage efforts."
-    },
-    {
-      "date": "2026-10-28",
-      "category": "AI",
-      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "summary": "Google Chrome has enhanced its AI-powered Autofill feature to extract information from users' Gmail accounts to help fill out forms more efficiently.",
-      "takeaway": "This update demonstrates how AI integration in browsers is increasingly personalizing and automating user tasks by leveraging their existing data."
-    },
-    {
-      "date": "2026-10-28",
-      "category": "AI",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "summary": "Google is expanding access to its AI-powered Gemini and Search technologies by allowing more applications to integrate with these systems, reflecting the growing influence of AI agents on web experiences.",
-      "takeaway": "The move signals Google's commitment to embedding AI more deeply across digital services to enhance interactivity and personalization."
     }
   ]
 }
